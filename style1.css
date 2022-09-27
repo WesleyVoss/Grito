@@ -1,0 +1,20 @@
+@charset "utf-8";
+body {
+    background-color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+figure {
+    background-color: #f1f1f1;
+    width: 25%; 
+    text-align: center;
+}
+img {
+    width: 100%;
+    align-items: center;
+    border-radius: 20px;
+}
+figcaption {
+    background-color: black;
+    color: #f1f1f1;
+    padding: 10px;
+}
